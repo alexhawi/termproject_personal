@@ -1,0 +1,12 @@
+﻿  Project_Term2.cpp
+c:\users\alex hawi\documents\visual studio 2015\projects\project_term2\project_term2\project_term2.cpp(36): error C2086: 'int array[100][10]': redefinition
+  c:\users\alex hawi\documents\visual studio 2015\projects\project_term2\project_term2\project_term2.cpp(18): note: see declaration of 'array'
+c:\users\alex hawi\documents\visual studio 2015\projects\project_term2\project_term2\project_term2.cpp(38): error C2374: 'file': redefinition; multiple initialization
+  c:\users\alex hawi\documents\visual studio 2015\projects\project_term2\project_term2\project_term2.cpp(20): note: see declaration of 'file'
+c:\users\alex hawi\documents\visual studio 2015\projects\project_term2\project_term2\project_term2.cpp(39): error C2086: 'std::string line': redefinition
+  c:\users\alex hawi\documents\visual studio 2015\projects\project_term2\project_term2\project_term2.cpp(21): note: see declaration of 'line'
+c:\users\alex hawi\documents\visual studio 2015\projects\project_term2\project_term2\project_term2.cpp(40): error C2374: 'row': redefinition; multiple initialization
+  c:\users\alex hawi\documents\visual studio 2015\projects\project_term2\project_term2\project_term2.cpp(22): note: see declaration of 'row'
+c:\users\alex hawi\documents\visual studio 2015\projects\project_term2\project_term2\project_term2.cpp(41): error C2374: 'colums': redefinition; multiple initialization
+  c:\users\alex hawi\documents\visual studio 2015\projects\project_term2\project_term2\project_term2.cpp(23): note: see declaration of 'colums'
+c:\users\alex hawi\documents\visual studio 2015\projects\project_term2\project_term2\project_term2.cpp(17): fatal error C1075: the left brace '{' was unmatched at the end of the file
